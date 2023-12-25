@@ -120,7 +120,7 @@ If you have a suggestion that would improve this, please fork the repo and creat
 
 ## Acknowledgments
 
-- Huge Thanks to my teammates who helped contribute to this project:
+- Huge thanks to my teammates who helped build this project:
   - [@Jean Bikorimana](https://github.com/teammate1)
   - [@Nedine Abdulahi](https://github.com/teammate2)
 
