@@ -4,13 +4,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/your_github_username/ChampNet">
-    <img src="https://static.wikia.nocookie.net/leagueoflegends/images/a/a7/Team_Builder_roles.png/revision/latest?cb=20140706160456" width="720" height="330">
+    <img src="https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-872a966297484acd0efe49f34edd5aed" width="720" height="330">
   </a>
 
   <h3 align="center">ChampNet: League of Legends Archetype Classifier</h3>
 
   <p align="center">
-    An AI-driven classifier to identify League of Legends champion archetypes using neural networks.
+    An AI-driven classifier to identify League of Legends champion archetypes using Neural Networks and predicte match outcomes using XGBoost.
     <br />
     <br />
     <br />
@@ -43,9 +43,11 @@
 
 <img src="https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/cdp/cf/ul/g/3a/b8/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork.png" width="720" height="330">om)
 
-The realm of League of Legends is vast and complex, with champions that fit into specific archetypes, each with their own strengths and roles in battle. ChampNet is a deep learning model designed to classify these champions based on their archetypes using neural networks. By analyzing champion images, ChampNet can accurately assign one of the six archetypes: Marksman, Mage, Tank, Assassin, Fighter, and Support, providing insights for strategic gameplay and team composition.
+League of Legends offers a complex battlefield where strategy and champion mastery play crucial roles in leading a team to victory. ChampNet dives deep into the strategy of this game, featuring two core functionalities:
 
-The project includes a comprehensive dataset preprocessing pipeline, a neural network model built with Keras, and a testing suite to evaluate the model's accuracy.
+1. **Champion Archetype Classification**: Utilizing neural networks, ChampNet classifies champions into Riot's six archetypes: Marksman, Mage, Tank, Assassin, Fighter, and Support. This classification provides valuable insights for team composition and strategic gameplay.
+
+2. **Match Outcome Prediction**: The model extends its predictive capabilities to forecast match outcomes based on players' mastery scores of champions and other in-game metrics. By leveraging the power of XGBOOST, it analyzes which team, red or blue, has a higher chance of winning, aiding players in making informed decisions during champion selection
 
 ### Built With
 
