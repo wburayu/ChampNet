@@ -10,7 +10,7 @@
   <h3 align="center">ChampNet: League of Legends Archetype Classifier</h3>
 
   <p align="center">
-    An AI-driven classifier to identify League of Legends champion archetypes using Neural Networks and predicte match outcomes using XGBoost.
+    An AI-driven classifier to identify League of Legends champion archetypes using Neural Networks and predict match outcomes using XGBoost.
     <br />
     <br />
     <br />
