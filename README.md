@@ -3,7 +3,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/your_github_username/ChampNet">
+  <a href="https://github.com/wburayu/ChampNet">
     <img src="https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-872a966297484acd0efe49f34edd5aed" width="720" height="330">
   </a>
 
